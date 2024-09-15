@@ -124,6 +124,5 @@ while count < len(remove_odd) :
             add.append(remove_odd[count])
         count  = count + 1
 print("modified list is ,", add)
-# complete
 
 
